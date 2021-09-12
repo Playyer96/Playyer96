@@ -9,4 +9,4 @@ Playyer96/Playyer96 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-readme-stats.vercel.app/api?username=Playyer96&count_private=true&show_icons=true&theme=radical
+![Github stats](https://github-readme-stats.vercel.app/api?username=Playyer96&count_private=true&show_icons=true&theme=radical)
