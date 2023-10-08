@@ -1,28 +1,48 @@
-<!-- <h1 align="center">Hi 👋, I'm Danilo Santiago Vanegas</h1> -->
 #   Hi 👋, I'm Danilo Santiago Vanegas
 
 
-Game Developer 🎮 with a Digital Entertainment Engineering degree 👨🏻‍🎓 and over six years of experience using Unity, C#, and Unreal Engine. Worked on a variety of platforms, including VR, AR, PC, and mobile. I have participated in Global Game Jams and worked for both local and international companies. My experience allows me to work effectively in small or large teams and to adapt to different agile methodologies and systems of work.
+**Game Developer** 🎮 with a **Digital Entertainment Engineering** degree 👨🏻‍🎓 and over six years of experience with the renowned Game Engines `Unity`, and `Unreal Engine`. Worked on a variety of platforms, including **VR**, **AR**, **PC**, and **mobile**. I have participated in Global Game Jams and worked for both local and international companies. My experience allows me to work effectively in small or large teams and to adapt to different agile methodologies and systems of work.
 
-## I Have worked on!
+## 💼 I Have worked on!
 
-<h5>FSX Pro</h5>
-2023 - Present
+**FSX Pro**
+`2023 April - Present`
 
-<h5>Foresight Sports Calibration App</h5>
-2023 April - 2023 September
+**Foresight Sports Calibration App**
+`2023 April - 2023 September`
 
-<h5> Manikin Arena </h5>
-2023
+**Manikin Arena**
+`2023 January - 2023 April`
+Manikins RnT is a tactical video game, where players create a team of Manikins to take them into combat, whoever is last alive wins.
 
-<h5>Road Safety</h5>
-2020 - 2021
+Manikins obtain their skills and stats from the equipped Battle Relics, the Manikins by themselves are empty shelves.
 
-<h5>Sofasa Logistica</h5>
-2019 - 2020
+**Road Safety**
+`2020 - 2021`
 
-<h5> World VS</h5>
-2017
+Virtual reality simulator that puts the player in an environment with a high accident rate to evaluate whether or not they meet road regulations.
+
+The built city recreates scenarios such as: run over in a school zone, not respecting a traffic light or stop and other specific cases for motorcycles and cars such as overtaking vehicles and zigzagging.
+
+**Sofasa Logistica**
+`2019 - 2020`
+
+Fight for the honor of their universe. its a fight where the main characters from my classmates games fight each other and a textureless cube, because why not?
+
+**World VS**
+`2018`
+
+Fight for the honor of their universe. its a fight where the main characters from my classmates games fight each other and a textureless cube, because why not?
+
+**Global Sick Jam**
+`2018`
+
+This game was made in the global game jam 2018, which consists in transmitting diseases among the attendees of the GGJ event at the UPB Coliseum. Fighting game for 2-4 players. Multiple controllers support.
+
+**Samsong**
+`2017`
+
+Samsong the barbarian, must protect his cave from countless bats using the best weapon possible, his electric triangle.Game created in the Global Game jam 2017 Winner of the best use of Hardware Global Game Jam 2017 (U.P.B, Medellín, Colombia).
 
 
 ##  ✔️ I'm currently learning
