@@ -42,10 +42,7 @@ Extend my personal portfolio.
 
 ##  📫 Contact
 
-[Mail](mailto:vanegasdanilo7@gmail.com?subject=[GitHub-Meet]%20Source%20Han%20Sans)
-
-![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/_https://www.linkedin.com/in/danisvs/)
-<!-- [https://www.linkedin.com/in/danisvs/] -->
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanegasdanilo7@gmail.com?subject=[GitHub-Meet]%20Source%20Han%20Sans)[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/danisvs)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dani.svs/)
 
 <p align="left">
 </p>
