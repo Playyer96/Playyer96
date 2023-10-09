@@ -1,8 +1,7 @@
-![Github-readme-banner](https://github.com/Playyer96/personal-portafolio/assets/16566988/d85ec1b0-a1cf-4476-a121-d4a723ae8311)
-#   Hi 👋, I'm Danilo Santiago Vanegas
+![Github-readme-banner](https://github.com/Playyer96/personal-portafolio/assets/16566988/390d4ad4-eff7-4f3d-8474-b4c029d0261b)
+#   Hi There 👋,
 
-
-**Game Developer** 🎮 with a **Digital Entertainment Engineering** degree 👨🏻‍🎓 and over six years of experience with the renowned Game Engines `Unity`, and `Unreal Engine`. Worked on a variety of platforms, including **VR**, **AR**, **PC**, and **mobile**.💻 I have participated in `Global Game Jams` and worked for both **local** and **international** companies. 🧑🏻‍💻 My experience allows me to work 💼 effectively in *small* and *large* teams and to adapt to different agile methodologies and systems of work.
+I'm Dani **Game Developer** 🎮 with a **Digital Entertainment Engineering** degree 👨🏻‍🎓 and over six years of experience with the renowned Game Engines `Unity`, and `Unreal Engine`. Worked on a variety of platforms, including **VR**, **AR**, **PC**, and **mobile**.💻 I have participated in `Global Game Jams` and worked for both **local** and **international** companies. 🧑🏻‍💻 My experience allows me to work 💼 effectively in *small* and *large* teams and to adapt to different agile methodologies and systems of work.
 
 ## 💼 I Have worked on!
 
