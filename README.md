@@ -5,7 +5,9 @@ I'm Dani **Game Developer** 🎮 with a **Digital Entertainment Engineering** de
 
 ## 💼 I Have worked on!
 
-### FSX Pro
+### FSX Pro   
+<img alt="FSS_New_Logo_2023_wht_blue_340x" width="256" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/a771b2f4-9011-4cc5-b6c2-eff9ac0e2f04">
+
 `2023 April - Present`
 
 FSX Pro, the ultimate performance analysis tool for top-tier gamers, coaches, and club fitters. FSX Pro is a dedicated fitting and coaching platform by Foresight Sports, designed to enhance players' ability to tailor their data capture experience.
@@ -20,15 +22,19 @@ Key Features:
 -   Capability to create tags for shot group categorization
 -   Immersive 3D driving range environment
 
+<img alt="643x0w" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/05b2f296-ce70-4ef9-9898-88572901694e"><img alt="643x0w12" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/ca96229d-cfb8-474e-ac32-ca920e7f84a4">
+
 ### Foresight Sports Calibration App
 `2023 April - 2023 September`
 
-### Manikin Arena
+### Manikin Arena <img width="18" alt="favicon" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/27f277d5-4ece-406e-9f8c-1c6993794703">
 `2023 January - 2023 April`
 
 Manikins RnT is a tactical video game, where players create a team of Manikins to take them into combat, whoever is last alive wins.
 
 Manikins obtain their skills and stats from the equipped Battle Relics, the Manikins by themselves are empty shelves.
+
+<img width="400" alt="Fighthing" align="center" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/b9375e72-ad11-4d9a-a92a-471aa82cd8f4">
 
 ### Road Safety
 `2020 - 2021`
