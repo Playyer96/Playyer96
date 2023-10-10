@@ -34,14 +34,18 @@ Manikins RnT is a tactical video game, where players create a team of Manikins t
 
 Manikins obtain their skills and stats from the equipped Battle Relics, the Manikins by themselves are empty shelves.
 
+[Manikin Arena Trailer](https://www.youtube.com/watch?v=fFZBn1fA6Z4&ab_channel=ManikinsR%26T)
+
 <img width="400" alt="Fighthing" align="center" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/b9375e72-ad11-4d9a-a92a-471aa82cd8f4">
 
-### Road Safety
+### Road Safety - Waygroup
 `2020 - 2021`
 
 Virtual reality simulator that puts the player in an environment with a high accident rate to evaluate whether or not they meet road regulations.
 
 The built city recreates scenarios such as: run over in a school zone, not respecting a traffic light or stop and other specific cases for motorcycles and cars such as overtaking vehicles and zigzagging.
+
+[Road Safety Website](https://www.waygroupsa.com/experiencias/seguridad-vial/)
 
 ### Sofasa Logistica
 `2019 - 2020`
