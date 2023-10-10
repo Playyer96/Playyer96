@@ -47,6 +47,9 @@ The built city recreates scenarios such as: run over in a school zone, not respe
 
 [Road Safety Website](https://www.waygroupsa.com/experiencias/seguridad-vial/)
 
+<img alt="Fotomontaje-Moto-1365x2048" width="388" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/b7eb506d-5968-4d97-96d9-94be3c95dc6c"> <img alt="Fotomontaje-carro" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/60ad89b9-b0b8-4853-b010-69c62063fc6c">
+
+
 ### Sofasa Logistica
 `2019 - 2020`
 
@@ -57,16 +60,20 @@ Fight for the honor of their universe. its a fight where the main characters fro
 
 Fight for the honor of their universe. its a fight where the main characters from my classmates games fight each other and a textureless cube, because why not?
 
+<img alt="WorldVS_Menu" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/294a28f9-b177-4b12-bc7f-3cc9d15675ef"> <img alt="WorldVS_CharacterSelection" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/2a537431-6ab6-4208-a4f3-6bdf48c3c654"> <img alt="WorldVS_Characters" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/372005ed-3c59-4de7-8109-95e520c1f58d"> <img alt="WorldVS_In-Game" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/e5bf0698-780a-4557-9439-f7f3dd90d3fd">
+
 ### Global Sick Jam
 `2018`
 
 This game was made in the global game jam 2018, which consists in transmitting diseases among the attendees of the GGJ event at the UPB Coliseum. Fighting game for 2-4 players. Multiple controllers support.
+
 
 ### Samsong
 `2017`
 
 Samsong the barbarian, must protect his cave from countless bats using the best weapon possible, his electric triangle.Game created in the Global Game jam 2017 Winner of the best use of Hardware Global Game Jam 2017 (U.P.B, Medellín, Colombia).
 
+<img alr="Samsong_1_1" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/8ee0574f-024a-4440-a837-e41754cf13a7"> <img alt="Samsong2_1" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/0f7a564c-dc7d-468e-af7e-59e4461c5d82"> <img alt="Samsong3_1" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/e863d998-1ada-4534-a401-5d8b79fe6407">
 
 ##  ✔️ I'm currently learning
 <li>React</li>
