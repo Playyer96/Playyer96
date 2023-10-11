@@ -27,6 +27,10 @@ Key Features:
 ### Foresight Sports Calibration App
 `2023 April - 2023 September`
 
+Designed to enhance the precision and performance of wall-mounted golf simulators. This system provides a seamless solution for golf enthusiasts and professionals seeking accurate and realistic indoor golf experiences.
+
+<img alt="HCA-62_ReducedRoomArea" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/223e3a00-8ab8-4c43-947f-f02b8d341f61"> <img alt="HawkRoomAreaZoneSize" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/a2b0ca0f-982e-4e83-91ee-35485a345dbd">
+
 ### Manikin Arena <img width="18" alt="favicon" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/27f277d5-4ece-406e-9f8c-1c6993794703">
 `2023 January - 2023 April`
 
@@ -55,6 +59,8 @@ The built city recreates scenarios such as: run over in a school zone, not respe
 
 Fight for the honor of their universe. its a fight where the main characters from my classmates games fight each other and a textureless cube, because why not?
 
+<img alt="Sofasa_PocketInteraction" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/4b22d861-73a2-4a2c-b852-3eaccbd807b9"> <img alt="Sofasa_TakingPhotoMechanic" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/b3688ad6-ac1d-436a-8ecd-e0018516b218"> <img alt="Sofasa_TeleportMechanic" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/f0f3d022-3200-432c-ae41-844e571b55fd"> <img alt="Sofasa_TrainingMode_1" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/a58d0f3c-a4ed-457b-ae7b-e0278a5fe7e5">
+
 ### World VS
 `2018`
 
@@ -67,6 +73,10 @@ Fight for the honor of their universe. its a fight where the main characters fro
 
 This game was made in the global game jam 2018, which consists in transmitting diseases among the attendees of the GGJ event at the UPB Coliseum. Fighting game for 2-4 players. Multiple controllers support.
 
+<img alt="Global-Sick-Jam_1" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/f45946a4-fac9-4e32-b5c8-9825580d60f2">
+<img alt="Global-Sick-Jam_2" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/d18e8686-9ecd-421e-bbe0-ed7f376515a0">
+<img alt="Global-Sick-Jam_2" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/6e46f50e-c70e-4c76-bd94-d74159a38ddd">
+<img alt="Global-Sick-Jam_4" width="400" src="https://github.com/Playyer96/personal-portafolio/assets/16566988/05f4dcf0-e6dc-4d1b-b76f-63ce927c8268">
 
 ### Samsong
 `2017`
