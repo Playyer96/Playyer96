@@ -48,5 +48,5 @@ Explore more repositories, including prototypes, XR projects, and experimental t
 Let’s connect! If you’re interested in collaborating or have questions about my work, feel free to reach out:  
 
 📧 **Email**: [vanegasdanilo7@gmail.com](mailto:vanegasdanilo7@gmail.com)  
-🌐 **Portfolio**: [danidev.xyz](https://danidev.xyz)  
+🌐 **Portfolio**: [danidev.xyz](https://danilovanegas.xyz)  
 🔗 **LinkedIn**: [linkedin.com/in/danisvs](https://linkedin.com/in/danisvs)  
